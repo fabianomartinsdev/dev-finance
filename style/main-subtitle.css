@@ -1,0 +1,10 @@
+.main-subtitle {
+  margin-top: 3.2rem;
+  margin-bottom: 0.8rem;
+  color: #fff;
+}
+
+.main-subtitle.-second {
+  color: #363f5f;
+  font-weight: normal;
+}
